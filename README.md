@@ -1,6 +1,6 @@
 # TaskMake Todo List App
 
-![TaskMake Logo](link-to-your-logo-image)
+![TaskMake Logo](https://res.cloudinary.com/dhbejijc4/image/upload/v1726945522/TaskMake/logo_qa6snx.png)
 
 ## Table of Contents
 - [Introduction](#introduction)
