@@ -1,0 +1,11 @@
+.completed-task {
+  text-decoration: line-through;
+}
+
+.btn {
+  margin-left: 10px;
+}
+
+.modal {
+  background-color: rgba(0, 0, 0, 0.5);
+}
